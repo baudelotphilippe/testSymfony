@@ -3,7 +3,9 @@
 # testSymfony
 
 test comment
-<!--- Wrap text --->
+<!--- Begin #OSSByMaif --->
+blabla
+<!--- End #OSSByMaif --->
 
 test 2
 {::comment}
