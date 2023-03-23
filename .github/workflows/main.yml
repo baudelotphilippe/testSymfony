@@ -1,0 +1,15 @@
+- name: Get Latest Release
+  # You may pin to the exact commit or the version.
+  # uses: pozetroninc/github-action-get-latest-release@d1dafdb6e338bdab109e6afce581a01858680dfb
+  uses: pozetroninc/github-action-get-latest-release@v0.7.0
+  with:
+    # The Github user or organization that owns the repository
+    owner: # optional
+    # The repository name
+    repo: # optional
+    # The repository name in full
+    repository: # optional
+    # Types of releases to exclude (e.g. pre-release)
+    excludes: # optional
+    # The GitHub token or personal access token
+    token: # optional
