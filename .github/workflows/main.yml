@@ -1,4 +1,4 @@
-- name: Get Latest Release
+name: Get Latest Release
   # You may pin to the exact commit or the version.
   # uses: pozetroninc/github-action-get-latest-release@d1dafdb6e338bdab109e6afce581a01858680dfb
   uses: pozetroninc/github-action-get-latest-release@v0.7.0
